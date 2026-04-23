@@ -1,4 +1,6 @@
 # Random-Password-Generator
+<img width="897" height="430" alt="image" src="https://github.com/user-attachments/assets/0a991d43-9628-4d7b-b9cb-87a13894ae9f" />
+
 Don't you get tired of having to create a new password every time you forget your password? 
 
 And let’s not get started on expired passwords!
@@ -14,6 +16,7 @@ Enough with stressing about creating one to access your bank accounts, emails, o
 I’m happy to introduce you! The Password generator!
 
 My objective is to create a simple yet useful tool for generating new passwords. This was a simple project to initiate the self-relearning journey. While there are many ways to create a random password, why deal with guesswork when Python can do that for you?
+
 
 
 
