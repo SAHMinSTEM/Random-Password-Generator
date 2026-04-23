@@ -1,7 +1,7 @@
 # Random-Password-Generator
 <img width="897" height="430" alt="image" src="https://github.com/user-attachments/assets/0a991d43-9628-4d7b-b9cb-87a13894ae9f" />
 
-Don't you get tired of having to create a new password every time you forget your password? 
+Don't you get tired of having to create a new password every time you forget your password? This is especially annoying if you're a busy household project manager, who is just trying to login nd  pay the electric bill so you can move on with your busy and 
 
 And let’s not get started on expired passwords!
 
